@@ -1,2 +1,2 @@
 # Social-game-system
-Progetto per corso Metodologie di Programmazione
+Progetto svolto per corso Metodologie di Programmazione tra aprile e giugno 2019
